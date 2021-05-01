@@ -28,6 +28,46 @@ public class TorpedoStore {
     }
   }
   
+	/* Őseimnek véres kardja
+	Fogason függ, rozsda marja,
+	Rozsda marja, nem ragyog.
+	Én magyar nemes vagyok!
+
+	Munkátlanság csak az élet.
+	Van életem, mert henyélek.
+	A paraszté a dolog.
+	Én magyar nemes vagyok!
+
+	Jól készítsd, paraszt, az útat,
+	Mert hisz a te lovad vontat.
+	Csak nem járhatok gyalog.
+	Én magyar nemes vagyok!
+
+	Tán a tudománynak éljek?
+	A tudósok mind szegények.
+	Nem irok, nem olvasok.
+	Én magyar nemes vagyok!
+
+	Van, igaz, egy tudományom,
+	Ebben párom ritkán látom:
+	Enni, inni jól tudok.
+	Én magyar nemes vagyok!
+
+	Milyen jó, hogy nem adózok.
+	Gazdaságom van, de nem sok,
+	S van adósságom, de sok.
+	Én magyar nemes vagyok!
+
+	Mit törődöm a hazával?
+	A hazának száz bajával?
+	Majd elmulnak a bajok.
+	Én magyar nemes vagyok!
+
+	Ősi joggal, ősi házban
+	Éltemet ha elpipáztam:
+	Mennybe visznek angyalok.
+	Én magyar nemes vagyok! */
+  
   private Random generator = new Random();
 
   public boolean fire(int numberOfTorpedos){
